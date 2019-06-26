@@ -2,4 +2,4 @@ This is a "color game" made during the London Clojure Dojo meetup at ThoughtWork
 
 [Live demo](http://www.ruslans.com/colorz)
 
-![](img/demo-screen.png|)
+![](img/demo-screen.png)

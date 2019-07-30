@@ -6,6 +6,11 @@ Clicking colors at the bottom will fill the adjacent same color cells (starting 
 
 The goal is to fill the whole board with one color in a minimal number of moves.
 
+**Hacking:**
+* clone and cd to the repo
+* `lein figwheel`
+* hack!
+
 [Live demo](http://www.ruslans.com/colorz)
 
 ![](img/demo-screen.png)
